@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Signika+Negative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
+
+.aboutme h1{
+    font-family: 'Poller One', cursive;
+    /* text-shadow: 0 0 50px yellow; */
+    /* text-decoration: underline; */
+}
+
+.aboutme h2{
+    font-family: 'Paytone One', sans-serif;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    padding-bottom: 5px;
+    /* text-shadow: 0 0 60px red; */
+    /* font-family: 'Titan One', cursive; */
+    
+}
+.aboutme li,p{
+    font-family: 'Signika Negative', sans-serif;
+    letter-spacing: -0.3px;
+    /* line-height: 45px; */
+    /* text-shadow: 0 0 70px green; */
+}
+
+.icons a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    /* visibility: hidden; */
+    /* margin-right: 1rem; */
+    text-align: right;
+    padding: 5px;
+    border-radius: 10px;
+    /* width: auto; */
+    /* background-color: #F20101; */
+    transition: transform 0.2s;
+}
+.icons span{
+    display: none;
+    color: black;
+}
+
+
+@media only screen and (min-width:995px) {
+    .icons a:hover span{
+        display: inline;
+    }
+    .icons span{
+        display: none;
+        color: black;
+    }
+    .icons a:hover{
+        width: 210px;
+        background-color: cyan;
+        /* transition: width 20s ease-in; */
+    }
+    .icons a:active{
+        transform: translateX(150px); 
+        /* transform: rotate(180deg);  */
+        /* background-color: aquamarine; */
+    }
+}
+
+
+
+
+.icons a:nth-child(1):hover{
+    color: #0176B5 !important;
+}.icons a:nth-child(2):hover{
+    color: #F20101 !important;
+
+}.icons a:nth-child(3):hover{
+    color: #00A6DE !important;
+
+}.icons a:nth-child(4):hover{
+    color: #1876D3 !important;
+
+}.icons a:nth-child(5):hover{
+    color: #FE543F !important;
+
+}.icons a:nth-child(6):hover{
+    color: #4CAE51 !important;
+
+}
+
+
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* justify-content: flex-start; */
+    /* background-color: red; */
+}
+.circular_bar {
+    margin: 2rem 2rem;
+    width: 13rem;
+}
