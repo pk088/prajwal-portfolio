@@ -15,7 +15,7 @@ const projects = (props) => {
       </div>
       <div className="container-fluid mb-5">
         <div className='row'>
-          <div className='col-10 mx-auto'>
+          <div className='col-lg-10 mx-auto'>
             <div className='my-4 w-50 fs-5'>
               {/* <div className='projects_navbar d-flex justify-content-between'>
                 

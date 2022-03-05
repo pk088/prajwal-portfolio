@@ -9,6 +9,15 @@ import { FiFacebook } from 'react-icons/fi';
 import { FiInstagram } from 'react-icons/fi';
 import { ImWhatsapp } from 'react-icons/im';
 
+import html from "../Images/logo/html.svg"
+import css from "../Images/logo/css.svg"
+// import javascript from "../Images/logo/javascript.svg"
+import react from "../Images/logo/react.svg"
+import node from "../Images/logo/node.svg"
+import express from "../Images/logo/express.svg"
+import mongodb from "../Images/logo/mongodb.svg"
+import native from "../Images/logo/react-native.svg"
+
 const AboutMe = () => {
 
   const Linkedin = <GrLinkedinOption size={40} />
@@ -26,7 +35,8 @@ const AboutMe = () => {
         textColor: "red",
         pathColor: "#F16529",
       },
-      imgsrc: "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+      // imgsrc: "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+      imgsrc: html,
       alt: "HTML"
     },
     {
@@ -35,8 +45,9 @@ const AboutMe = () => {
         textColor: "red",
         pathColor: "#2965F1",
       },
-      imgsrc: "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
+      // imgsrc: "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
       // imgsrc:"https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg",
+      imgsrc: css,
       alt: "CSS"
     },
     {
@@ -46,16 +57,57 @@ const AboutMe = () => {
         pathColor: "#FFDA3E",
       },
       imgsrc: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg",
+      // imgsrc: javascript,
       alt: "JavaScript"
     },
     {
       percentage: 80,
       styles: {
         textColor: "red",
-        pathColor: "#51DAFB",
+        pathColor: "#01D0F7",
       },
-      imgsrc: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      // imgsrc: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      imgsrc: react,
       alt: "React"
+    },
+    {
+      percentage: 70,
+      styles: {
+        textColor: "red",
+        pathColor: "#3C833A",
+      },
+      // imgsrc: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+      imgsrc: node,
+      alt: "Node"
+    },
+    {
+      percentage: 80,
+      styles: {
+        textColor: "red",
+        pathColor: "",
+      },
+      // imgsrc: "https://symbols.getvecta.com/stencil_79/87_expressjs.98a8557541.svg",
+      imgsrc: express,
+      alt: "Express"
+    },
+    {
+      percentage: 65,
+      styles: {
+        textColor: "red",
+        pathColor: "#7DCB3C",
+      },
+      // imgsrc: "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg",
+      imgsrc: mongodb,
+      alt: "MongoDB"
+    },
+    {
+      percentage: 30,
+      styles: {
+        textColor: "red",
+        pathColor: "#363E54",
+      },
+      imgsrc: native,
+      alt: "React Native"
     },
 
   ]
@@ -64,7 +116,7 @@ const AboutMe = () => {
     <>
       <div className="container-fluid nav_bg">
         <div className='row aboutme'>
-          <div className='col-9 mt-4 mx-auto'>
+          <div className='col-lg-9 col-11 mt-4 mx-auto'>
             <h1 className='text-center'> Prajwal Kharat </h1>
 
             <div className='d-flex d-sm-flex flex-column flex-sm-column flex-lg-row justify-content-between  '>
@@ -73,7 +125,7 @@ const AboutMe = () => {
                   <h2>Education</h2>
                 </div>
                 <div>
-                  <ul className='ms-3'>
+                  <ul className='ms-lg-3'>
                     <li>Pursuing MCA at Sinhagad Institute Of Management, Vadgaon Bk, Pune.</li>
                     <li>BCA from Dr. Babasaheb Ambedkar Marathwada University with aggregate of 64.20%.</li>
                     <li>HSC under Maharashtra state divisional board with 70%.</li>

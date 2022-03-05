@@ -18,7 +18,7 @@ const Navbar = () => {
         <>
             <div className='container-fluid nav_bg sticky-lg-top'>
                 <div className='row' >
-                    <div className='col-10 mx-auto'>
+                    <div className='col-lg-10 mx-auto'>
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <div className="container-fluid">
                                 <NavLink title='Download Resume' to={require("../src/ResumePDF/Prajwal_Kharat_Resume.pdf")} target="_blank" className="navbar-brand" >Portfolio</NavLink>
@@ -28,7 +28,7 @@ const Navbar = () => {
                                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                                         <li className="nav-item">
-                                            <NavLink exact="true" className="nav-link" aria-current="page" to="/">Home</NavLink>
+                                            <NavLink exact="true" className="nav-link" to="/">Home</NavLink>
                                         </li>
                                         <li className="nav-item">
                                             <NavLink exact="true" className="nav-link" to="/aboutMe">AboutMe</NavLink>
