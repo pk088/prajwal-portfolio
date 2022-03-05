@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/prajwal-portfolio/static/css/main.e54d17d7.css",
-    "main.js": "/prajwal-portfolio/static/js/main.a36febbe.js",
-    "static/media/Prajwal_Kharat_Resume.pdf": "/prajwal-portfolio/static/media/Prajwal_Kharat_Resume.a8c4a2972dc5d6b6fac3.pdf",
-    "static/media/Programer.png": "/prajwal-portfolio/static/media/Programer.9909a3cd4f985daa6047.png",
-    "static/media/Expense-Tracker.png": "/prajwal-portfolio/static/media/Expense-Tracker.dcf993aface6d9eb60c9.png",
-    "static/media/Project.png": "/prajwal-portfolio/static/media/Project.0d0d8ff689849d3d367c.png",
-    "index.html": "/prajwal-portfolio/index.html",
-    "main.e54d17d7.css.map": "/prajwal-portfolio/static/css/main.e54d17d7.css.map",
-    "main.a36febbe.js.map": "/prajwal-portfolio/static/js/main.a36febbe.js.map"
+    "main.css": "/static/css/main.e54d17d7.css",
+    "main.js": "/static/js/main.55ad4834.js",
+    "static/media/Prajwal_Kharat_Resume.pdf": "/static/media/Prajwal_Kharat_Resume.a8c4a2972dc5d6b6fac3.pdf",
+    "static/media/Programer.png": "/static/media/Programer.9909a3cd4f985daa6047.png",
+    "static/media/Expense-Tracker.png": "/static/media/Expense-Tracker.dcf993aface6d9eb60c9.png",
+    "static/media/Project.png": "/static/media/Project.0d0d8ff689849d3d367c.png",
+    "static/media/react-native.svg": "/static/media/react-native.3f1213fee5063eb21b258930346d7501.svg",
+    "index.html": "/index.html",
+    "main.e54d17d7.css.map": "/static/css/main.e54d17d7.css.map",
+    "main.55ad4834.js.map": "/static/js/main.55ad4834.js.map"
   },
   "entrypoints": [
     "static/css/main.e54d17d7.css",
-    "static/js/main.a36febbe.js"
+    "static/js/main.55ad4834.js"
   ]
 }
