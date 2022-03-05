@@ -5,7 +5,7 @@ import Home from "./Pages/Home"
 import Projects from "./Pages/Projects"
 import AboutMe from "./Pages/AboutMe"
 import Contact from "./Pages/Contact"
-import Navbar from './Navbar';
+import Navbar from './Pages/Navbar';
 import { Routes, Route } from "react-router-dom"
 import P1img from "./Images/Project.png"
 import ttt from "./Images/Project Images/Expense-Tracker.png"
