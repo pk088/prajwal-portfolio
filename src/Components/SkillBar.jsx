@@ -17,7 +17,7 @@ const SkillBar = (props) => {
                     styles={buildStyles({
                       textColor: finalSkillData.styles.textColor,
                       pathColor: finalSkillData.styles.pathColor,
-                      trailColor: "rgb(200,200,200)"
+                      trailColor: "rgb(210,210,210)"
                     })}>
                     <img src={finalSkillData.imgsrc} alt="dog" style={{width:"100px", height:"100px"}} />
                   </CircularProgressbarWithChildren>

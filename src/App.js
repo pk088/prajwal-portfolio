@@ -8,7 +8,8 @@ import Contact from "./Pages/Contact"
 import Navbar from './Pages/Navbar';
 import { Routes, Route } from "react-router-dom"
 import P1img from "./Images/Project.png"
-import ttt from "./Images/Project Images/Expense-Tracker.png"
+import ExpenseTracker from "./Images/Project Images/Expense-Tracker.png"
+import RecipeFinder from "./Images/Project Images/Recipe-Finder.png"
 
 
 function App() {
@@ -16,22 +17,22 @@ function App() {
   const projectData = [
     {
       level: "basic",
-      imgsrc: ttt,
+      imgsrc: ExpenseTracker,
       title: "Expense-Tracker",
       desc: "This React-app enable users to track their expenses spent in a year.",
       path: "https://pk088.github.io/expense-tracker/"
     },
     {
       level: "basic",
-      imgsrc: P1img,
-      title: "Weather App",
-      desc: "Upcoming Project",
-      path: ""
+      imgsrc: RecipeFinder,
+      title: "Recipe Finder",
+      desc: "Find thousands of recipes you can make right now with ingredients list.",
+      path: "https://pk088.github.io/recipe-finder/"
     },
     {
       level: "basic",
       imgsrc: P1img,
-      title: "Recipe Finder",
+      title: "Weather App",
       desc: "Upcoming Project",
       path: ""
     }, {
@@ -79,10 +80,11 @@ function App() {
       <Navbar />
       <Routes>
         {/* <Route path="/prajwal-portfolio"/> */}
-        <Route path="/" element={<Home />} />
+        <Route index element={<Home />} />
         <Route path="/aboutMe" element={<AboutMe />} />
         <Route path="/projects" element={<Projects projectData={projectData} />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="*" element={<Home />} />
       </Routes>
     </>
   );

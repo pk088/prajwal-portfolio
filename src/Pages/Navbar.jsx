@@ -28,16 +28,16 @@ const Navbar = () => {
                                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                                         <li className="nav-item">
-                                            <NavLink exact="true" className="nav-link" to="/">Home</NavLink>
+                                            <NavLink exact="true" className="nav-link" to="/"><span data-bs-toggle="collapse" data-bs-target=".navbar-collapse">Home</span></NavLink>
                                         </li>
                                         <li className="nav-item">
-                                            <NavLink exact="true" className="nav-link" to="/aboutMe">AboutMe</NavLink>
+                                            <NavLink exact="true" className="nav-link" to="/aboutMe"><span data-bs-toggle="collapse" data-bs-target=".navbar-collapse">AboutMe</span></NavLink>
                                         </li>
                                         <li className="nav-item">
-                                            <NavLink exact="true" className="nav-link" to="/projects">Projects</NavLink>
+                                            <NavLink exact="true" className="nav-link" to="/projects"><span data-bs-toggle="collapse" data-bs-target=".navbar-collapse">Projects</span></NavLink>
                                         </li>
                                         <li className="nav-item">
-                                            <NavLink exact="true" className="nav-link" to="/contact">Contact</NavLink>
+                                            <NavLink exact="true" className="nav-link" to="/contact"><span data-bs-toggle="collapse" data-bs-target=".navbar-collapse">Contact</span></NavLink>
                                         </li>
 
                                         {/* <li className="nav-item dropdown">
@@ -62,6 +62,8 @@ const Navbar = () => {
             </div>
         </>
     )
+    
 }
+
 
 export default Navbar
