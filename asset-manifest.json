@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/prajwal-portfolio/static/css/main.08cdebb5.css",
-    "main.js": "/prajwal-portfolio/static/js/main.54826b50.js",
-    "static/media/Prajwal_Kharat_Resume.pdf": "/prajwal-portfolio/static/media/Prajwal_Kharat_Resume.a8c4a2972dc5d6b6fac3.pdf",
+    "main.css": "/prajwal-portfolio/static/css/main.99240084.css",
+    "main.js": "/prajwal-portfolio/static/js/main.209e620f.js",
+    "static/media/Recipe-Finder.png": "/prajwal-portfolio/static/media/Recipe-Finder.2849042fd5ca2b3c2f59.png",
+    "static/media/Prajwal_Kharat_Resume.pdf": "/prajwal-portfolio/static/media/Prajwal_Kharat_Resume.dc6436b6b063f94edb7c.pdf",
     "static/media/Programer.png": "/prajwal-portfolio/static/media/Programer.9909a3cd4f985daa6047.png",
-    "static/media/Expense-Tracker.png": "/prajwal-portfolio/static/media/Expense-Tracker.dcf993aface6d9eb60c9.png",
+    "static/media/Expense-Tracker.png": "/prajwal-portfolio/static/media/Expense-Tracker.984ea8c1fa69623fc30d.png",
     "static/media/Project.png": "/prajwal-portfolio/static/media/Project.0d0d8ff689849d3d367c.png",
     "static/media/express.svg": "/prajwal-portfolio/static/media/express.9dfb8b9927c3d38e3348680a44c95ac9.svg",
     "static/media/mongodb.svg": "/prajwal-portfolio/static/media/mongodb.4d0524e8507975bf9f23ba41f15253e8.svg",
     "static/media/node.svg": "/prajwal-portfolio/static/media/node.dd47e26ed1d7dddf018e5cbffc40f76d.svg",
+    "static/media/Instagram.svg": "/prajwal-portfolio/static/media/Instagram.e3ab503c19551f348b6fc7e41f01f3c7.svg",
+    "static/media/Whatsapp.svg": "/prajwal-portfolio/static/media/Whatsapp.0f348ed3b5d0392cc9fd6da557b617f7.svg",
     "static/media/react-native.svg": "/prajwal-portfolio/static/media/react-native.3f1213fee5063eb21b258930346d7501.svg",
+    "static/media/Linkedin.svg": "/prajwal-portfolio/static/media/Linkedin.ee50bc02ff5c8ece2975f9ae9b166929.svg",
+    "static/media/Twitter.svg": "/prajwal-portfolio/static/media/Twitter.f26a11762a87e313a090a457b6f1ad08.svg",
+    "static/media/Github.svg": "/prajwal-portfolio/static/media/Github.e21209f267368a1bd7975dab65fcd209.svg",
+    "static/media/Facebook.svg": "/prajwal-portfolio/static/media/Facebook.ddd975a67420c3008da3979403d08231.svg",
     "static/media/css.svg": "/prajwal-portfolio/static/media/css.6ec1697a406483c72ccf775894d16777.svg",
     "static/media/html.svg": "/prajwal-portfolio/static/media/html.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "index.html": "/prajwal-portfolio/index.html",
     "static/media/react.svg": "/prajwal-portfolio/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.08cdebb5.css.map": "/prajwal-portfolio/static/css/main.08cdebb5.css.map",
-    "main.54826b50.js.map": "/prajwal-portfolio/static/js/main.54826b50.js.map"
+    "main.99240084.css.map": "/prajwal-portfolio/static/css/main.99240084.css.map",
+    "main.209e620f.js.map": "/prajwal-portfolio/static/js/main.209e620f.js.map"
   },
   "entrypoints": [
-    "static/css/main.08cdebb5.css",
-    "static/js/main.54826b50.js"
+    "static/css/main.99240084.css",
+    "static/js/main.209e620f.js"
   ]
 }
