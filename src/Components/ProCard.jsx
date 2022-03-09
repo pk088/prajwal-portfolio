@@ -8,8 +8,8 @@ const ProCard = (props) => {
     return (
         <>
             <div className='col-md-4 col-10 mx-auto'>
-                <div className="card">
-                    <img src={props.projectData.imgsrc} className="card-img-top" alt="..." />
+                <div className="card shadow">
+                    <img src={props.projectData.imgsrc} className="card-img-top" alt="Project Image" />
                     <div className="card-body">
                         <h5 className="card-title">{props.projectData.title}</h5>
                         <p className="card-text">{props.projectData.desc}</p>

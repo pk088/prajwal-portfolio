@@ -80,11 +80,11 @@ function App() {
       <Navbar />
       <Routes>
         {/* <Route path="/prajwal-portfolio"/> */}
-        <Route index element={<Home />} />
-        <Route path="/aboutMe" element={<AboutMe />} />
-        <Route path="/projects" element={<Projects projectData={projectData} />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="*" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
+        <Route exact path="/aboutMe" element={<AboutMe />} />
+        <Route exact path="/projects" element={<Projects projectData={projectData} />} />
+        <Route exact path="/contact" element={<Contact />} />
+        <Route exact path="*" element={<Home />} />
       </Routes>
     </>
   );
