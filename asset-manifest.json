@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prajwal-portfolio/static/css/main.55db90bb.css",
-    "main.js": "/prajwal-portfolio/static/js/main.d492c261.js",
+    "main.css": "/prajwal-portfolio/static/css/main.465d5cec.css",
+    "main.js": "/prajwal-portfolio/static/js/main.33f977b2.js",
     "static/media/Recipe-Finder.png": "/prajwal-portfolio/static/media/Recipe-Finder.2849042fd5ca2b3c2f59.png",
     "static/media/Prajwal_Kharat_Resume.pdf": "/prajwal-portfolio/static/media/Prajwal_Kharat_Resume.dc6436b6b063f94edb7c.pdf",
     "static/media/Programer.png": "/prajwal-portfolio/static/media/Programer.9909a3cd4f985daa6047.png",
@@ -21,11 +21,11 @@
     "static/media/html.svg": "/prajwal-portfolio/static/media/html.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "index.html": "/prajwal-portfolio/index.html",
     "static/media/react.svg": "/prajwal-portfolio/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.55db90bb.css.map": "/prajwal-portfolio/static/css/main.55db90bb.css.map",
-    "main.d492c261.js.map": "/prajwal-portfolio/static/js/main.d492c261.js.map"
+    "main.465d5cec.css.map": "/prajwal-portfolio/static/css/main.465d5cec.css.map",
+    "main.33f977b2.js.map": "/prajwal-portfolio/static/js/main.33f977b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.55db90bb.css",
-    "static/js/main.d492c261.js"
+    "static/css/main.465d5cec.css",
+    "static/js/main.33f977b2.js"
   ]
 }
