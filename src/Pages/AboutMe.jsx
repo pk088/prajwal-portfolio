@@ -135,7 +135,7 @@ const AboutMe = () => {
                 <div>
                   <ul className='my-lg-3'>
 
-                    <li>Pursuing MCA at Sinhagad Institute Of Management, Vadgaon Bk, Pune.</li>
+                    <li>Pursuing MCA at Sinhagad Institute of Management, Vadgaon Bk, Pune.</li>
                     <li>BCA from Dr. Babasaheb Ambedkar Marathwada University with aggregate of 64.20%.</li>
                     <li>HSC under Maharashtra state divisional board with 70%.</li>
                     <li>SSC Saraswati Bhuvan Prashala, Jalna with 86.20%.</li>
@@ -158,9 +158,9 @@ const AboutMe = () => {
                 <h2>Objective</h2>
               </div>
               <div>
-                <p className='ms-4' style={{ textIndent: "50px" }}>Looking for a challenging role in a reputable organization to utilize my technical, and management skills for
-                  the growth of the organization as well as to enhance my knowledge about new and emerging trends in the
-                  IT sector. </p>
+                <p className='ms-4' style={{ textIndent: "50px" }}>Looking for a Challenging role in a Reputable Organization to utilize my Technical, and Management skills for
+                  the Growth of the Organization as well as to Enhance my Knowledge about New and Emerging Trends in the
+                  IT Sector. </p>
               </div>
             </div>
 
