@@ -23,7 +23,7 @@ const Home = () => {
                                     <h3 className='mb-lg-3'>Hey, {greeting}...</h3>
                                     <h1><span className='iam'>I'm </span>
                                     <strong className='brand-name'>Prajwal Kharat</strong></h1>
-                                    <h2 className='my-3 work'>I work as web Designer & Front end Developer.<br/> I Make Things Look Good..</h2>
+                                    <h2 className='my-3 work'>I work as Frontend Software Developer.<br/> I Make Things Look Good..</h2>
                                     <div className='mt-3'>
                                         <NavLink to="/projects" className='btn btn-get-started'>See Projects</NavLink>
                                     </div>
