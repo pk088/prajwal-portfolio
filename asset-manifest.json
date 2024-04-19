@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/prajwal-portfolio/static/css/main.465d5cec.css",
-    "main.js": "/prajwal-portfolio/static/js/main.33f977b2.js",
-    "static/media/Recipe-Finder.png": "/prajwal-portfolio/static/media/Recipe-Finder.2849042fd5ca2b3c2f59.png",
-    "static/media/Prajwal_Kharat_Resume.pdf": "/prajwal-portfolio/static/media/Prajwal_Kharat_Resume.dc6436b6b063f94edb7c.pdf",
+    "main.js": "/prajwal-portfolio/static/js/main.d1d5065b.js",
+    "static/media/Recipe-Finder1.png": "/prajwal-portfolio/static/media/Recipe-Finder1.90bd8ba6c77fcd84695c.png",
+    "static/media/Fashion-Fabulous.png": "/prajwal-portfolio/static/media/Fashion-Fabulous.99015e53e6978597f130.png",
     "static/media/Programer.png": "/prajwal-portfolio/static/media/Programer.9909a3cd4f985daa6047.png",
-    "static/media/Expense-Tracker.png": "/prajwal-portfolio/static/media/Expense-Tracker.984ea8c1fa69623fc30d.png",
+    "static/media/Expense-Tracker1.png": "/prajwal-portfolio/static/media/Expense-Tracker1.c4edf5090dfc15bd8879.png",
     "static/media/Project.png": "/prajwal-portfolio/static/media/Project.0d0d8ff689849d3d367c.png",
     "static/media/express.svg": "/prajwal-portfolio/static/media/express.9dfb8b9927c3d38e3348680a44c95ac9.svg",
     "static/media/mongodb.svg": "/prajwal-portfolio/static/media/mongodb.4d0524e8507975bf9f23ba41f15253e8.svg",
@@ -22,10 +22,10 @@
     "index.html": "/prajwal-portfolio/index.html",
     "static/media/react.svg": "/prajwal-portfolio/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.465d5cec.css.map": "/prajwal-portfolio/static/css/main.465d5cec.css.map",
-    "main.33f977b2.js.map": "/prajwal-portfolio/static/js/main.33f977b2.js.map"
+    "main.d1d5065b.js.map": "/prajwal-portfolio/static/js/main.d1d5065b.js.map"
   },
   "entrypoints": [
     "static/css/main.465d5cec.css",
-    "static/js/main.33f977b2.js"
+    "static/js/main.d1d5065b.js"
   ]
 }
