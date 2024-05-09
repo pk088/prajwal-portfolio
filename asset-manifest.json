@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/prajwal-portfolio/static/css/main.465d5cec.css",
-    "main.js": "/prajwal-portfolio/static/js/main.1b62867e.js",
+    "main.js": "/prajwal-portfolio/static/js/main.bad47200.js",
     "static/media/Recipe-Finder1.png": "/prajwal-portfolio/static/media/Recipe-Finder1.90bd8ba6c77fcd84695c.png",
     "static/media/Fashion-Fabulous.png": "/prajwal-portfolio/static/media/Fashion-Fabulous.99015e53e6978597f130.png",
+    "static/media/Prajwal_Kharat_Resume.pdf": "/prajwal-portfolio/static/media/Prajwal_Kharat_Resume.71e2892ee06fe2fd9c0a.pdf",
     "static/media/Programer.png": "/prajwal-portfolio/static/media/Programer.9909a3cd4f985daa6047.png",
     "static/media/Expense-Tracker1.png": "/prajwal-portfolio/static/media/Expense-Tracker1.c4edf5090dfc15bd8879.png",
     "static/media/Tic-Tac-Toe.png": "/prajwal-portfolio/static/media/Tic-Tac-Toe.f8948d66e6d621055590.png",
@@ -23,10 +24,10 @@
     "index.html": "/prajwal-portfolio/index.html",
     "static/media/react.svg": "/prajwal-portfolio/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.465d5cec.css.map": "/prajwal-portfolio/static/css/main.465d5cec.css.map",
-    "main.1b62867e.js.map": "/prajwal-portfolio/static/js/main.1b62867e.js.map"
+    "main.bad47200.js.map": "/prajwal-portfolio/static/js/main.bad47200.js.map"
   },
   "entrypoints": [
     "static/css/main.465d5cec.css",
-    "static/js/main.1b62867e.js"
+    "static/js/main.bad47200.js"
   ]
 }
