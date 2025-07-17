@@ -204,7 +204,7 @@ const AboutMe = () => {
                   the Growth of the Organization as well as to Enhance my Knowledge about New and Emerging Trends in the
                   IT Sector.
                    */}
-                  A web developer with 2.7 years of experience specializing in
+                  A web developer with 3+ years of experience specializing in
                   HTML5, CSS3, JavaScript, React and front-end development.
                   Adept at collaborating with dynamic teams to build
                   high-quality websites and identify opportunities to enhance

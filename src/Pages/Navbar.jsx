@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-// import Resume from "../ResumePDF/Prajwal_Kharat_Resume.pdf"
+import Resume from "../ResumePDF/Prajwal_Kharat_Resume.pdf"
 
 
 const Navbar = () => {
@@ -21,7 +21,7 @@ const Navbar = () => {
                     <div className='col-lg-10 mx-auto'>
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <div className="container-fluid">
-                                <a title='Download Resume' target="_blank" className="navbar-brand" >Portfolio</a>
+                                <a href='' target="_blank" className="navbar-brand" >Portfolio</a>
                                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="navbar-toggler-icon"></span>
                                 </button>

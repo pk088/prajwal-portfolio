@@ -11,6 +11,7 @@ import P1img from "./Images/Project.png";
 import ExpenseTracker1 from "./Images/Project Images/Expense-Tracker1.png";
 import RecipeFinder1 from "./Images/Project Images/Recipe-Finder1.png";
 import FashionFabulous from "./Images/Project Images/Fashion-Fabulous.png";
+import TicTacToe from "./Images/Project Images/Tic-Tac-Toe.png";
 
 function App() {
   const projectData = [
@@ -18,7 +19,7 @@ function App() {
       level: "basic",
       imgsrc: FashionFabulous,
       title: "Fashion Fabulous",
-      desc: "User-friendly e-commerce website for fashionable cloths with Men, Women and Kids category.",
+      desc: "User Friendly e-commerce website for fashionable cloths with Men, Women and Kids category.",
       path: "https://pk088.github.io/fashion-fabulous/",
     },
     {
@@ -35,11 +36,17 @@ function App() {
       desc: "This React-app enable users to track their expenses spent in a year.",
       path: "https://pk088.github.io/expense-tracker/",
     },
-    
+    {
+      level: "basic",
+      imgsrc: TicTacToe,
+      title: "Tic-Tac-Toe",
+      desc: "Game is created using React Js with score card. Visuals and Sound effects inhances the joy of Game.",
+      path: "https://pk088.github.io/tic-tac-toe/",
+    },
     {
       level: "basic",
       imgsrc: P1img,
-      title: "Youtube Clone",
+      title: "Spotify Clone",
       desc: "Upcoming Project",
       path: "",
     },
@@ -50,13 +57,7 @@ function App() {
       desc: "Upcoming Project",
       path: "",
     },
-    {
-      level: "basic",
-      imgsrc: P1img,
-      title: "Weather App",
-      desc: "Upcoming Project",
-      path: ""
-    },
+    
     // {
     //   level: "basic",
     //   imgsrc: P1img,
